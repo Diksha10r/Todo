@@ -17,26 +17,16 @@ This is developed using Laravel, Vue.js, inertia.js and tailwind CSS.
 <h4>Below are the screenshots for your reference</h4>
 
 
-
-
-![Screenshot (54)](https://user-images.githubusercontent.com/65304980/129254858-d1a5f3f2-99c5-43cf-8b79-08a827d78e13.png)
-![Screenshot (53)](https://user-images.githubusercontent.com/65304980/129254927-1dbd7c45-7956-4255-a615-3813ec163aae.png)
-![Screenshot (46)](https://user-images.githubusercontent.com/65304980/129255094-b3a5c44a-e5ae-4086-9ee6-9a5a37aecf75.png)
-![Screenshot (55)](https://user-images.githubusercontent.com/65304980/129255134-0fdff3b9-c99c-478a-8f6b-d5db6d7d8448.png)
-![Screenshot (49)](https://user-images.githubusercontent.com/65304980/129255182-9ccbddeb-27ad-475b-a1c9-77078eeda207.png)
-![Screenshot (51)](https://user-images.githubusercontent.com/65304980/129255198-5ef4b06f-cb1b-412c-802b-e6d401a8a1b7.png)
-
-
-
-
-
-
-
-
-
-
-
-
+<table>
+    <tr>
+        <td style="width:200"><img src="https://user-images.githubusercontent.com/65304980/129254858-d1a5f3f2-99c5-43cf-8b79-08a827d78e13.png" ></td>
+        <td style="width:200"><img src="https://user-images.githubusercontent.com/65304980/129254927-1dbd7c45-7956-4255-a615-3813ec163aae.png" ></td>
+        <td style="width:200"><img src="https://user-images.githubusercontent.com/65304980/129255094-b3a5c44a-e5ae-4086-9ee6-9a5a37aecf75.png" ></td>
+        <td style="width:200"><img src="https://user-images.githubusercontent.com/65304980/129255134-0fdff3b9-c99c-478a-8f6b-d5db6d7d8448.png" ></td>
+        <td style="width:200"><img src="https://user-images.githubusercontent.com/65304980/129255182-9ccbddeb-27ad-475b-a1c9-77078eeda207.png" ></td>
+        <td style="width:200"><img src="https://user-images.githubusercontent.com/65304980/129255198-5ef4b06f-cb1b-412c-802b-e6d401a8a1b7.png" ></td>
+    </tr>
+ </table>
 
 
 
