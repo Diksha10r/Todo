@@ -1,3 +1,49 @@
+## Todo List
+<br>
+This is a simple todo list website. One can add daily tasks, update it and delete it.
+
+This is developed using Laravel, Vue.js, inertia.js and tailwind CSS.
+
+ <h3><b>Functions that can be performed :</b></h3>
+
+- Register and login to access dashboard.
+- Inside dashboard, you have two tabs. One is to work with tasks and the other one is to see the list of the users with the number of tasks assigned to them.
+- On the first tab, add daily tasks and assign the user to do the task. As you add the tasks it will update the list below it.
+- If the task is completed, click on the checkbox.
+- If you want to delete the task click the cancel button.
+
+<br>
+
+<h4>Below are the screenshots for your reference</h4>
+
+
+
+
+![Screenshot (54)](https://user-images.githubusercontent.com/65304980/129254858-d1a5f3f2-99c5-43cf-8b79-08a827d78e13.png)
+![Screenshot (53)](https://user-images.githubusercontent.com/65304980/129254927-1dbd7c45-7956-4255-a615-3813ec163aae.png)
+![Screenshot (46)](https://user-images.githubusercontent.com/65304980/129255094-b3a5c44a-e5ae-4086-9ee6-9a5a37aecf75.png)
+![Screenshot (55)](https://user-images.githubusercontent.com/65304980/129255134-0fdff3b9-c99c-478a-8f6b-d5db6d7d8448.png)
+![Screenshot (49)](https://user-images.githubusercontent.com/65304980/129255182-9ccbddeb-27ad-475b-a1c9-77078eeda207.png)
+![Screenshot (51)](https://user-images.githubusercontent.com/65304980/129255198-5ef4b06f-cb1b-412c-802b-e6d401a8a1b7.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
